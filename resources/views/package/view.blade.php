@@ -711,7 +711,7 @@
     <!-- Smartsupp Live Chat script -->
     <script type="text/javascript">
         var _smartsupp = _smartsupp || {};
-_smartsupp.key = '6ee2569bf89a8a2ea6907b841794fb259f68883d';
+_smartsupp.key = '78ad4119a1d75ff0968ad05d08c125bb96ed0502';
 window.smartsupp||(function(d) {
   var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
   s=d.getElementsByTagName('script')[0];c=d.createElement('script');

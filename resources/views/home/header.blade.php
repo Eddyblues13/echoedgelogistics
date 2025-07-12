@@ -30,6 +30,19 @@
         rel="stylesheet">
     <script src="//code.tidio.co/rip3i2znrk2hidz2yms3d7oht10rheh5.js" async></script>
 
+
+    <!-- Smartsupp Live Chat script -->
+    <script type="text/javascript">
+        var _smartsupp = _smartsupp || {};
+_smartsupp.key = '78ad4119a1d75ff0968ad05d08c125bb96ed0502';
+window.smartsupp||(function(d) {
+  var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
+  s=d.getElementsByTagName('script')[0];c=d.createElement('script');
+  c.type='text/javascript';c.charset='utf-8';c.async=true;
+  c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
+})(document);
+    </script>
+    <noscript> Powered by <a href=“https://www.smartsupp.com” target=“_blank”>Smartsupp</a></noscript>
     <!-- 
     - preload images
   -->
