@@ -132,7 +132,7 @@
 
         <div class="footer-bottom">
             <p class="copyright">
-                &copy; 2024. All Rights Reserved by <a href="#" class="copyright-link">freightfastcargo.cc</a>
+                &copy; 2024. All Rights Reserved by <a href="#" class="copyright-link">echoedgelogistics.com</a>
             </p>
         </div>
 
